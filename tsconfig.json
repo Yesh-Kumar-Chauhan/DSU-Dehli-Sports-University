@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx", "pages/_layout/_headers/CommonHeaderChat.js", "pages/_layout/_headers/CommonHeaderChat.js", "pages/student/attendance.js", "pages/student/attendance.js", "pages/_layout/_headers/coachHeader.js", "pages/_layout/_headers/employeeHeader.js", "pages/charts/_examples/chart-pieDonut/students/acadmicPieChart.js", "pages/admin/dashboard.js", "pages/charts/_examples/chart-radial-bar/RadialBarCustom.js", "pages/student/lesson-plan.js", "pages/student/Training-schedule.js", "common/partial/CommonDashboardWaitingAnswer.js", "pages/admin/ams-dashboard.js", "pages/admin/time-table.js", "common/partial/CommonAssesment.js", "pages/charts/_examples/chart-bar/ReportBarGraph.js", "pages/_layout/_headers/Budget-header.js",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
