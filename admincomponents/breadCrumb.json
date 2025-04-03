@@ -1,0 +1,970 @@
+[
+    {
+        "path": "/admin/dashboard",
+        "breadcrumb": "/home/dashboard",
+        "name": "Dashboard"
+    },
+    {
+        "path": "/admin/achievements/addachievement",
+        "breadcrumb": "home/achievement/add achievement",
+        "name": "Add Achievement"
+    },
+    {
+        "path": "/admin/achievements/achievement-approve-reject",
+        "breadcrumb": "home/achievement/achievement approve reject",
+        "name": "Achievement Status"
+    },
+    {
+        "path": "/admin/achievements/achievement",
+        "breadcrumb": "home/achievement",
+        "name": "Achievement"
+    },
+    {
+        "path": "/admin/admission/registration",
+        "breadcrumb": "home/admission/registration",
+        "name": "Registration"
+    },
+    {
+        "path": "/admin/admission/meritstudent",
+        "breadcrumb": "home/admission/merit student",
+        "name": "Merit Student"
+    },
+    {
+        "path": "/admin/admission/withdrawApplication",
+        "breadcrumb": "home/admission/withdraw application",
+        "name": "Withdraw Application"
+    },
+    {
+        "path": "/admin/students/issue-slc",
+        "breadcrumb": "home/students/issue slc",
+        "name": "Transfer Certificate"
+    },
+    {
+        "path": "/admin/admission/registrations_mail",
+        "breadcrumb": "home/admission/registrations mail",
+        "name": "Registrations Email"
+    },
+    {
+        "path": "/admin/admission/candidate-details",
+        "breadcrumb": "Home/Admission/Candidate Details",
+        "name": "Candidate Details"
+    },
+
+
+    {
+        "path": "/admin/talent-scouting/levelone",
+        "breadcrumb": "home/talent scouting/levelone",
+        "name": "Level One"
+    },
+    {
+        "path": "/admin/talent-scouting/leveltwo",
+        "breadcrumb": "home/talent scouting/leveltwo",
+        "name": "Level Two"
+    },
+    {
+        "path": "/admin/talent-scouting/sportsTrials",
+        "breadcrumb": "home/talent scouting/sportstrials",
+        "name": "Sports Trials"
+    },
+    {
+        "path": "/admin/talent-scouting/weightage",
+        "breadcrumb": "home/talent scouting/weightage",
+        "name": "Weightage Master"
+    },
+    {
+        "path": "/admin/talent-scouting/addAchievement",
+        "breadcrumb": "home/talent scouting/addAchievement",
+        "name": "Add Achievement"
+    },
+    {
+        "path": "/admin/talent-scouting/finalResult",
+        "breadcrumb": "home/talent scouting/finalResult",
+        "name": "Final Result"
+    },
+    {
+        "path": "/admin/talent-scouting/candidateAttendence",
+        "breadcrumb": "home/talent scouting/candidateAttendence",
+        "name": "Candidate Attendance"
+    },
+    {
+        "path": "/admin/students/admit-card",
+        "breadcrumb": "home/students/admit card",
+        "name": "Admit Card"
+    },
+    {
+        "path": "/admin/sports-science/sportsScienceMaster",
+        "breadcrumb": "home/admin/sports science/Sports Science Master",
+        "name": "Sports Science Master"
+    },
+    {
+        "path": "/admin/sports-science/sportsScience",
+        "breadcrumb": "home/sports science/sportsScience",
+        "name": "Sports Science Result"
+    },
+    {
+        "path": "/admin/students/",
+        "breadcrumb": "home/students/student List",
+        "name": "Student List"
+    },
+    {
+        "path": "/admin/students/attendance",
+        "breadcrumb": "home/students/attendance",
+        "name": "Attendance"
+    },
+    {
+        "path": "/admin/students/view-student-attendance",
+        "breadcrumb": "home/students/viewstudentattendance",
+        "name": "View Student Attendance"
+    },
+    {
+        "path": "/admin/students/withdraw-admission",
+        "breadcrumb": "home/students/withdraw admission",
+        "name": "Withdraw Admission"
+    },
+    {
+        "path": "/admin/students/promote-student",
+        "breadcrumb": "home/students/promote student",
+        "name": "Promote Student"
+    },
+    {
+        "path": "/admin/admission/updateCandidate",
+        "breadcrumb": "home/admission/updateCandidate",
+        "name": "Transfer Candidate"
+    },
+    {
+        "path": "/admin/admission/Scrutiny-form",
+        "breadcrumb": "home/admission/Scrutiny",
+        "name": "Scrutiny"
+    },
+    {
+        "path": "/admin/admission/scrutiny-list",
+        "breadcrumb": "home/admission/Scrutiny",
+        "name": "Scrutiny"
+    },
+
+    {
+        "path": "/admin/ams/ams-dashboard",
+        "breadcrumb": "home/ams dashboard",
+        "name": "Ams Dashboard"
+    },
+    {
+        "path": "/admin/training-assessment/tournament",
+        "breadcrumb": "home/training assessment/tournament",
+        "name": "Tournament"
+    },
+    {
+        "path": "/admin/training-assessment/all-sport-parameter",
+        "breadcrumb": "home/training assessment/all sport parameter",
+        "name": "Sport Parameter Category"
+    },
+    {
+        "path": "/admin/training-assessment/add-player-assessment",
+        "breadcrumb": "home/training assessment/add player assessment",
+        "name": "Player Assessment"
+    },
+    {
+        "path": "/admin/training-assessment/categories",
+        "breadcrumb": "home/training assessment/category",
+        "name": "Category"
+    },
+    {
+        "path": "/admin/training-assessment/parameters",
+        "breadcrumb": "home/training assessment/Parameters",
+        "name": "Parameters"
+    },
+    {
+        "path": "/admin/training-assessment/training-assessment-duration",
+        "breadcrumb": "home/training assessment/training assessment duration",
+        "name": "Training Assessment Duration"
+    },
+    {
+        "path": "/admin/academic/classes",
+        "breadcrumb": "home/academic/classes",
+        "name": "Class"
+    },
+    {
+        "path": "/admin/academic/all-subject",
+        "breadcrumb": "home/academic/all subject",
+        "name": "Subjects"
+    },
+    {
+        "path": "/admin/academic/lesson-plan",
+        "breadcrumb": "home/academic/lesson plan",
+        "name": "Lesson Plan"
+    },
+    {
+        "path": "/admin/academic/training-schedule",
+        "breadcrumb": "home/academic/training schedule",
+        "name": "Training Schedule"
+    },
+    {
+        "path": "/admin/academic/class-time-table",
+        "breadcrumb": "home/academic/class time table",
+        "name": "Time Table"
+    },
+    {
+        "path": "/admin/academic/add-time-table",
+        "breadcrumb": "home/academic/add time table",
+        "name": "Add Time Table"
+    },
+    {
+        "path": "/admin/academic/class-teacher",
+        "breadcrumb": "home/academic/class teacher",
+        "name": "Class Teacher"
+    },
+    {
+        "path": "/admin/examination/add-student-results",
+        "breadcrumb": "home/examination/add student results",
+        "name": "Student Results"
+    },
+    {
+        "path": "/admin/examination/curriculum-structure-and-assessment-criteria",
+        "breadcrumb": "home/examination/Student Results",
+        "name": "Student Results"
+    },
+    {
+        "path": "/admin/examination/result-criterion",
+        "breadcrumb": "home/examination/result criterion",
+        "name": "Result Criterion"
+    },
+    {
+        "path": "/admin/examination/exam-schedule",
+        "breadcrumb": "home/examination/exam schedule",
+        "name": "Exam Schedule"
+    },
+    {
+        "path": "/admin/examination/exam-type",
+        "breadcrumb": "home/examination/exam type",
+        "name": "Exam Type"
+    },
+    {
+        "path": "/admin/examination/create-exam-schedule",
+        "breadcrumb": "home/examination/create exam schedule",
+        "name": "Exam Schedule"
+    },
+    {
+        "path": "/admin/examination/all-development-goal",
+        "breadcrumb": "home/examination/all development goal",
+        "name": "Development Goal"
+    },
+    {
+        "path": "/admin/human-resource/employee",
+        "breadcrumb": "home/human resource/employee",
+        "name": "Employee"
+    },
+    {
+        "path": "/admin/human-resource/employeeprofile",
+        "breadcrumb": "home/human resource/employee profile",
+        "name": "Employee Profile"
+    },
+    {
+        "path": "/admin/human-resource/view-employee-attendance",
+        "breadcrumb": "home/human resource/view employee attendance",
+        "name": "Employee Attendance"
+    },
+    {
+        "path": "/admin/human-resource/add-employee-attendance",
+        "breadcrumb": "home/human resource/add employee attendance",
+        "name": "Add Employee Attendance"
+    },
+    {
+        "path": "/admin/human-resource/apply-leave",
+        "breadcrumb": "home/human resource/apply leave",
+        "name": "Apply Leave"
+    },
+    {
+        "path": "/admin/human-resource/miscellaneous-employee",
+        "breadcrumb": "home/human resource/miscellaneous employee",
+        "name": "Miscellaneous Employees"
+    },
+    {
+        "path": "/admin/human-resource/attendace-miscellaneous-employee",
+        "breadcrumb": "home/human resource/attendace miscellaneous employee",
+        "name": "Miscellaneous Employee Attendance"
+    },
+    {
+        "path": "/admin/finance/all-expense",
+        "breadcrumb": "home/finance/all xpense",
+        "name": "Expense"
+    },
+    {
+        "path": "/admin/finance/expense-heads",
+        "breadcrumb": "home/finance/expense heads",
+        "name": "Expense Head"
+    },
+    {
+        "path": "/admin/finance/income",
+        "breadcrumb": "home/finance/income",
+        "name": "Income"
+    },
+    {
+        "path": "/admin/finance/all-income-heads",
+        "breadcrumb": "home/finance/all income heads",
+        "name": "Income Head"
+    },
+    {
+        "path": "/admin/communicate/push-notification",
+        "breadcrumb": "home/communicate/push notification",
+        "name": "Push Notification"
+    },
+    {
+        "path": "/admin/communicate/email-send",
+        "breadcrumb": "home/communicate/email send",
+        "name": "Send Email"
+    },
+    {
+        "path": "/admin/communicate/sms-send",
+        "breadcrumb": "home/communicate/sms send",
+        "name": "Send Message"
+    },
+    {
+        "path": "/admin/mess/mess-menu",
+        "breadcrumb": "home/mess/mess menu",
+        "name": "Meal Schedule"
+    },
+    {
+        "path": "/admin/mess/Add-meal",
+        "breadcrumb": "home/mess/add meal",
+        "name": "Add Meal"
+    },
+    {
+        "path": "/admin/hostel/assigned-hostel-Room",
+        "breadcrumb": "home/hostel/assigned hostel room",
+        "name": "Room Allotment"
+    },
+    {
+        "path": "/admin/hostel/all-hostel",
+        "breadcrumb": "home/hostel/all hostel",
+        "name": "Hostel"
+    },
+    {
+        "path": "/admin/hostel/hostel-room",
+        "breadcrumb": "home/hostel/hostel room",
+        "name": "Hostel Rooms"
+    },
+    {
+        "path": "/admin/library/issue-books",
+        "breadcrumb": "home/library/issue books",
+        "name": "Issue Books"
+    },
+    {
+        "path": "/admin/library/retrun-book",
+        "breadcrumb": "home/library/retrun book",
+        "name": "Return Books"
+    },
+    {
+        "path": "/admin/library/books",
+        "breadcrumb": "home/library/books",
+        "name": "Library Management"
+    },
+    {
+        "path": "/admin/library/category-books",
+        "breadcrumb": "home/library/category books",
+        "name": "Books Category"
+    },
+    {
+        "path": "/admin/library/all-books-transaction",
+        "breadcrumb": "home/library/all books transaction",
+        "name": "Book Transaction"
+    },
+    {
+        "path": "/admin/reports/result-report",
+        "breadcrumb": "home/reports/result report",
+        "name": "Academic Result Report"
+    },
+    {
+        "path": "/admin/reports/hostel-report",
+        "breadcrumb": "home/reports/hostel report",
+        "name": "Hostel Report"
+    },
+    {
+        "path": "/admin/reports/training-assessment-report",
+        "breadcrumb": "home/reports/training assessment report",
+        "name": "Training Assessment Report"
+    },
+    {
+        "path": "/admin/cms/news",
+        "breadcrumb": "home/cms/news",
+        "name": "News"
+    },
+    {
+        "path": "/admin/cms/events",
+        "breadcrumb": "home/cms/events",
+        "name": "Events"
+    },
+    {
+        "path": "/admin/cms/tenders",
+        "breadcrumb": "home/cms/tenders",
+        "name": "Tenders"
+    },
+    {
+        "path": "/admin/cms/contact",
+        "breadcrumb": "home/cms/contact",
+        "name": "Contact"
+    },
+    {
+        "path": "/admin/cms/circular",
+        "breadcrumb": "home/cms/circular",
+        "name": "Circular"
+    },
+    {
+        "path": "/admin/cms/galleryMaster",
+        "breadcrumb": "home/cms/gallery master",
+        "name": "Gallery Master"
+    },
+    {
+        "path": "/admin/cms/galleryImage",
+        "breadcrumb": "home/cms/gallery image",
+        "name": "Gallery"
+    },
+    {
+        "path": "/admin/cms/press_release",
+        "breadcrumb": "home/cms/press release",
+        "name": "Press Release"
+    },
+    {
+        "path": "/admin/cms/studentgrievance",
+        "breadcrumb": "home//cms/studentgrievance",
+        "name": "Student Grievance"
+    },
+    {
+        "path": "/admin/cms/posts",
+        "breadcrumb": "home/cms/posts",
+        "name": "Posts"
+    },
+    {
+        "path": "/admin/cms/lastestNews",
+        "breadcrumb": "home/cms/lastestNews",
+        "name": "News Carousal"
+    },
+    {
+        "path": "/admin/cms/liveStreaming",
+        "breadcrumb": "home/cms/liveStreaming",
+        "name": "Live Streaming"
+    },
+    {
+        "path": "/admin/cms/holidays",
+        "breadcrumb": "home/cms/holidays",
+        "name": "Holidays"
+    },
+    {
+        "path": "/admin/settings/mastercode",
+        "breadcrumb": "home/settings/mastercode",
+        "name": "Master Code"
+    },
+    {
+        "path": "/admin/settings/designation",
+        "breadcrumb": "home/settings/designation",
+        "name": "Designation"
+    },
+    {
+        "path": "/admin/settings/branch",
+        "breadcrumb": "home/settings/branch",
+        "name": "Branches"
+    },
+    {
+        "path": "/admin/settings/infrastructure",
+        "breadcrumb": "home/settings/infrastructure",
+        "name": "Infrastructure"
+    },
+    {
+        "path": "/admin/settings/workShift",
+        "breadcrumb": "home/settings/workShift",
+        "name": "Work Shift"
+    },
+    {
+        "path": "/admin/settings/exceptions-log",
+        "breadcrumb": "home/settings/exceptions log",
+        "name": "Exceptions Log"
+    },
+    {
+        "path": "/admin/settings/academic-session",
+        "breadcrumb": "home/settings/academic session",
+        "name": "Academic Session"
+    },
+    {
+        "path": "/admin/ams/nutritional-assessment",
+        "breadcrumb": "home/ams/nutritional assessment",
+        "name": "Student Nutritional"
+    },
+    {
+        "path": "/admin/ams/student-physiology",
+        "breadcrumb": "home/ams/student physiology",
+        "name": "Student Physiology"
+    },
+    {
+        "path": "/admin/ams/body",
+        "breadcrumb": "home/ams/body",
+        "name": "Student Fitness"
+    },
+    {
+        "path": "/coach/attendance",
+        "breadcrumb": "coach/attendance",
+        "name": "Student Attendance"
+    },
+    {
+        "path": "/coach/apply-leave",
+        "breadcrumb": "coach/apply leave",
+        "name": "Apply Leave"
+    },
+    {
+        "path": "/coach/training-schedule",
+        "breadcrumb": "coach/training schedule",
+        "name": "Training Schedule"
+    },
+    {
+        "path": "/student/academic-time-table",
+        "breadcrumb": "student/academic time table",
+        "name": "Academic Time Table"
+    },
+    {
+        "path": "/student/Training-schedule",
+        "breadcrumb": "student/Training schedule",
+        "name": "Training Schedule"
+    },
+    {
+        "path": "/student/profile",
+        "breadcrumb": "student/profile",
+        "name": "Profile"
+    },
+    {
+        "path": "/admin/settings/online-class",
+        "breadcrumb": "admin/settings/online class",
+        "name": "Online Class"
+    },
+    {
+        "path": "/admin/training-assessment/training-assessment-duration-unit",
+        "breadcrumb": "Admin/Training Assessment/Unit",
+        "name": "Unit "
+    },
+    {
+        "path": "/admin/apar/apar-remarks",
+        "breadcrumb": "Admin/Apar/APAR Remark",
+        "name": "APAR Remark"
+    },
+    {
+        "path": "/admin/apar/apar-assessment",
+        "breadcrumb": "Admin/Apar/APAR Assessment",
+        "name": "APAR Assessment"
+    },
+    {
+        "path": "/admin/apar/all-apar-list",
+        "breadcrumb": "Admin/APAR/All APAR List",
+        "name": "APAR List"
+    },
+    {
+        "path": "/admin/apar/apar-view",
+        "breadcrumb": "Admin/APAR/APAR View",
+        "name": "APAR View"
+    },
+    {
+        "path": "/admin/training-assessment/sport-assessment-structure",
+        "breadcrumb": "Admin/Training Assessment/Sport Assessment Structure",
+        "name": "Sport Assessment Structure"
+    },
+    {
+        "path": "/admin/budget-master/major-budget-head",
+        "breadcrumb": "Admin/Budget Master/Major Head",
+        "name": "Major Head"
+    },
+    {
+        "path": "/admin/budget-master/sub-major-budget-head",
+        "breadcrumb": "Admin/Budget Master/Major Sub Head",
+        "name": "Major Sub Head"
+    },
+    {
+        "path": "/admin/budget-master/minor-budget-head",
+        "breadcrumb": "Admin/Budget Master/Minor Head",
+        "name": "Minor Head"
+    },
+    {
+        "path": "/admin/budget-master/sub-minor-budget-head",
+        "breadcrumb": "Admin/Budget Master/Minor Sub Head",
+        "name": "Minor Sub Head"
+    },
+    {
+        "path": "/admin/budget-master/details-head",
+        "breadcrumb": "Admin/Budget Master/Details Head",
+        "name": "Details Head"
+    },
+    {
+        "path": "/admin/budget-master/object-head",
+        "breadcrumb": "Admin/Budget Master/Object Head",
+        "name": "Object Head"
+    },
+    {
+        "path": "/admin/budget-master/expenditure-categories",
+        "breadcrumb": "Admin/Budget Master/Expenditure Categories",
+        "name": "Expenditure Categories"
+    },
+    {
+        "path": "/admin/budget/budget-allocation",
+        "breadcrumb": "Admin/Budget/Budget Allocation",
+        "name": "Budget Allocation"
+    },
+    {
+        "path": "/admin/training-assessment/player-assessment",
+        "breadcrumb": "Admin/Training Assessment/Player Assessment",
+        "name": "Player Assessment"
+    },
+    {
+        "path": "/admin/training-assessment/assessment-report",
+        "breadcrumb": "Admin/Training Assessment/Assessment Report",
+        "name": "Assessment Report"
+    },
+    {
+        "path": "/admin/training-assessment/view-assessment-reports",
+        "breadcrumb": "Admin/Training Assessment/View Assessment Report",
+        "name": "View Assessment Report"
+    },
+    {
+        "path": "/admin/budget-master/bill-type",
+        "breadcrumb": "Admin/Budget Master/Bill Type",
+        "name": "Bill Type"
+    },
+    {
+        "path": "/admin/budget-master/tax-section",
+        "breadcrumb": "Admin/Budget Master/Tax Section",
+        "name": "Tax Section"
+    },
+    {
+        "path": "/admin/budget-master/voucher-type",
+        "breadcrumb": "Admin/Budget Master/Voucher Type",
+        "name": "Voucher Type"
+    },
+    {
+        "path": "/admin/budget-master/sub-voucher-bill-type",
+        "breadcrumb": "Admin/Budget Master/Sub Voucher Bill Type",
+        "name": "Sub Voucher Bill Type"
+    },
+    {
+        "path": "/admin/budget-master/all-imposed-taxes",
+        "breadcrumb": "Admin/Budget Master/Imposed Taxes",
+        "name": "Imposed Taxes"
+    },
+    {
+        "path": "/admin/budget/bill-subVoucher",
+        "breadcrumb": "Admin/Budget/Sub Voucher",
+        "name": "Sub Voucher"
+    },
+    {
+        "path": "/admin/budget/client",
+        "breadcrumb": "Admin/Budget/Clients",
+        "name": "Clients"
+    },
+    {
+        "path": "/admin/budget/add-client",
+        "breadcrumb": "Admin/Budget/Add Client",
+        "name": "Add Client"
+    },
+    {
+        "path": "/admin/budget/all-subVoucher",
+        "breadcrumb": "Admin/Budget/Sub Voucher List",
+        "name": "Sub Voucher List"
+    },
+    {
+        "path": "/admin/training-assessment/age-range",
+        "breadcrumb": "Admin/Training Assessment/Age Range",
+        "name": "Age Range"
+    },
+    {
+        "path": "/admin/budget/add-voucher-bill",
+        "breadcrumb": "Admin/Budget/Add Voucher Bill",
+        "name": "Contingent Bill"
+    },
+    {
+        "path": "/admin/budget/allVoucher-bill",
+        "breadcrumb": "Admin/Budget/Contingent Bill",
+        "name": "Contingent Bill"
+    },
+    {
+        "path": "/admin/budget/unassignBill",
+        "breadcrumb": "Admin/Budget/Unassign Bill",
+        "name": "Unassign Bill"
+    },
+    {
+        "path": "/admin/training-assessment/performance-status",
+        "breadcrumb": "Admin/Training Assessment/Performance Status",
+        "name": "Performance Status"
+    },
+    {
+        "path": "/admin/training-assessment/weight-category",
+        "breadcrumb": "Admin/training-assessment/weight category",
+        "name": "Weight Category"
+    },
+    {
+        "path": "/admin/budget/ContingencyBill-Pdf",
+        "breadcrumb": "Admin/Budget/Contingency Bill",
+        "name": "Contingency Bill "
+    },
+    {
+        "path": "/admin/talent-scouting/student-admission",
+        "breadcrumb": "Admin/Talent Scouting/Approve Admission",
+        "name": "Approve Admission"
+    },
+    {
+        "path": "/admin/sportScienceDepartment/parameter",
+        "breadcrumb": "Admin/Sport Science Department/Parameter",
+        "name": "Parameter"
+    },
+    {
+        "path": "/admin/sportScienceDepartment/department",
+        "breadcrumb": "Admin/Sport Science Department/Department",
+        "name": "Department"
+    },
+    {
+        "path": "/admin/sportScienceDepartment/category",
+        "breadcrumb": "Admin/Sport Science Department/Category",
+        "name": "Category"
+    },
+    {
+        "path": "/admin/settings/age-criteria",
+        "breadcrumb": "Admin/Sport Science Department/Registration Age Criteria",
+        "name": "Registration Age Criteria"
+    },
+    {
+        "path": "/admin/communicate/email-template",
+        "breadcrumb": "Admin/Communicate/email Template",
+        "name": "Email Template"
+    },
+    {
+        "path": "/admin/students/student-list",
+        "breadcrumb": "Admin/Students/Student List",
+        "name": "Student List"
+    },
+    {
+        "path": "/admin/lms/study-material",
+        "breadcrumb": "Admin/Lms/Study Material",
+        "name": "Study Material"
+    },
+    {
+        "path": "/admin/lms/add-subject",
+        "breadcrumb": "Admin/Lms/Add Subject",
+        "name": "Add Subject"
+    },
+    {
+        "path": "/admin/lms/add-chapter",
+        "breadcrumb": "Admin/Lms/Add Chapter",
+        "name": "Add Chapter"
+    },
+    {
+        "path": "/admin/lms/map-subject",
+        "breadcrumb": "Admin/Lms/Map Subject",
+        "name": "Map Subject"
+    },
+    {
+        "path": "/admin/lms/add-topic",
+        "breadcrumb": "Admin/Lms/Add Topic",
+        "name": "Add Topic"
+    },
+    {
+        "path": "/admin/talent-scouting/venue",
+        "breadcrumb": "admin/talent-scouting/venue",
+        "name": "Venue"
+    },
+    {
+        "path": "",
+        "breadcrumb": "",
+        "name": ""
+    },
+    {
+        "path": "/admin/students/profile",
+        "breadcrumb": "admin/students/profile",
+        "name": "Profile"
+    },
+    {
+        "path": "/admin/settings/all-sports-subcategories",
+        "breadcrumb": "admin/settings/ Sports Subcategories",
+        "name": "Sports Subcategories"
+    },
+    {
+        "path": "/admin/settings/sport-weight-range",
+        "breadcrumb": "admin/settings/ Sports Weight Range",
+        "name": "Sports Weight Range"
+    },
+    {
+        "path": "/admin/finance-master/Pay-scale-year",
+        "breadcrumb": "admin/finance master/Pay scale year",
+        "name": "Pay Scale Year"
+    },
+    {
+        "path": "/admin/finance-master/Pay-band",
+        "breadcrumb": "admin/finance master/Pay Band",
+        "name": "Pay Band"
+    },  {
+        "path": "/admin/finance-master/Pay-Matrix",
+        "breadcrumb": "admin/finance master/Pay Matrix",
+        "name": "Pay Matrix"
+    },  {
+        "path": "/admin/finance-master/Pay-level",
+        "breadcrumb": "admin/finance master/Pay Level",
+        "name": "Pay Level"
+    },  
+    {
+        "path": "/admin/finance-master/Allowance-recovery-type",
+        "breadcrumb": "admin/finance master/Allowance Recovery",
+        "name": "Allowance Recovery"
+    },
+    {
+        "path": "/admin/human-resource/view-employee-monthly-attendance",
+        "breadcrumb": "admin/human resource/view employee monthly attendance",
+        "name": "View Employee Monthly Attendence"
+    }, 
+    {
+        "path": "/admin/budget/budget-dashboard",
+        "breadcrumb": "admin/budget/budget dashboard",
+        "name": "Budget Dashboard"
+    },
+    {
+        "path": "/admin/salary/create-salary",
+        "breadcrumb": "admin/salary/create salary",
+        "name": "Create Salary"
+    }, 
+    {
+        "path": "/budget/dashboard",
+        "breadcrumb": "/budget/budget dashboard",
+        "name": "Dashboard"
+    }, 
+    {
+        "path": "/budget/masters/all-imposed-taxes",
+        "breadcrumb": "budget/masters/Imposed Taxes",
+        "name": "Imposed Taxes"
+    }, 
+    {
+        "path": "/budget/masters/major-budget-head",
+        "breadcrumb": "budget/masters/Major Head",
+        "name": "Major Head"
+    },
+    
+
+    {
+        "path": "/budget/masters/sub-major-budget-head",
+        "breadcrumb": "budget/masters/Sub Major Head",
+        "name": "Sub Major Head"
+    }, 
+    {
+        "path": "/budget/masters/minor-budget-head",
+        "breadcrumb": "budget/masters/Minor Head",
+        "name": "Minor Head"
+    }, 
+    {
+        "path": "/budget/masters/sub-minor-budget-head",
+        "breadcrumb": "budget/masters/Sub Minor Head",
+        "name": "Sub Minor Head"
+    }, 
+    {
+        "path": "/budget/masters/details-head",
+        "breadcrumb": "budget/masters/Details Head",
+        "name": "Details Head"
+    },  
+    {
+        "path": "/budget/masters/object-head",
+        "breadcrumb": "budget/masters/Object Head",
+        "name": "Object Head"
+    }, 
+    {
+        "path": "/budget/masters/expenditure-categories",
+        "breadcrumb": "budget/masters/Expenditure Categories",
+        "name": "Expenditure Categories"
+    }, 
+    {
+        "path": "/budget/masters/bill-type",
+        "breadcrumb": "budget/masters/Bill Type",
+        "name": "Bill Type"
+    }, 
+    {
+        "path": "/budget/masters/tax-section",
+        "breadcrumb": "budget/masters/Tax Section",
+        "name": "Tax Section"
+    }, 
+    {
+        "path": "/budget/masters/voucher-type",
+        "breadcrumb": "budget/masters/Voucher Type",
+        "name": "Voucher Type"
+    }, 
+    
+    {
+        "path": "/budget/masters/sub-voucher-bill-type",
+        "breadcrumb": "budget/Sub Voucher Type",
+        "name": "TSub Voucher Type"
+    }, 
+    
+    {
+        "path": "/budget/budget/client",
+        "breadcrumb": "budget/Client",
+        "name": "Client"
+    }, 
+    
+    {
+        "path": "/budget/budget/budget-allocation",
+        "breadcrumb": "budget/Budget Allocation",
+        "name": "Budget Allocation"
+    }, 
+    {
+        "path": "/budget/budget/all-subVoucher",
+        "breadcrumb": "budget/Sub Voucher",
+        "name": "Sub Voucher"
+    }, 
+    {
+        "path": "/budget/budget/allVoucher-bill",
+        "breadcrumb": "budget/Contingent Bill",
+        "name": "Contingent Bill"
+    }, 
+
+    {
+        "path": "/budget/budget/add-voucher-bill",
+        "breadcrumb": "budget/Contingent Bill/ Add Contingent Bill",
+        "name": "Contingent Bill"
+    }, 
+    {
+        "path": "/budget/budget/bill-subVoucher",
+        "breadcrumb": "budget/Sub Voucher / New Sub Voucher",
+        "name": "Contingent Bill"
+    }, 
+    {
+        "path": "/budget/budget/add-client",
+        "breadcrumb": "budget/Client/Add New Client",
+        "name": "Client"
+    },
+    {
+        "path": "/budget/employee/employee-attendance",
+        "breadcrumb": "budget/Employee/Employee Attendance",
+        "name": "Employee Attendance"
+    },
+    {
+        "path": "/budget/employee/employee-list",
+        "breadcrumb": "budget/Employee/Employee List",
+        "name": "Employee List"
+    },
+    {
+        "path": "/budget/employee/emp-profile",
+        "breadcrumb": "budget/Employee/Employee Profile",
+        "name": "Employee Profile"
+    },
+    {
+        "path": "/admin/salary-setting/DA-Config",
+        "breadcrumb": "budget/Salary Setting/DA Configuration",
+        "name": "DA Configuration"
+    },
+    {
+        "path": "/admin/salary-setting/DDO-Config",
+        "breadcrumb": "budget/Salary Setting/DDO Configuration",
+        "name": "DDO Configuration"
+    },
+    {
+        "path": "/budget/masters/detailed-hierarchy",
+        "breadcrumb": "budget/masters/Detailed hierarchy",
+        "name": "Detailed Hierarchy"
+    }, 
+    {
+        "path": "/budget/budget/budget-allocation-details",
+        "breadcrumb": "budget/Budget Allocation Details",
+        "name": "Budget Allocation Details"
+    },  
+
+
+    
+   
+
+    {}
+]
